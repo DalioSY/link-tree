@@ -12,14 +12,6 @@ body {
   background-color: #222222;
 }
 
-a {
-  text-decoration: none;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  color: #fff;
-}
-
 main {
   width: 350px;
   background-color: #2e2e2e;
@@ -109,9 +101,16 @@ ul {
       }
     }
 
+    &:active {
+      transform: scale(0.9);
+    }
+
     a {
+      width: 100%;
       display: flex;
+      align-items: center;
       gap: 40px;
+      text-decoration: none;
       color: #fff;
     }
 
