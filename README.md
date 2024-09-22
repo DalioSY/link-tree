@@ -47,13 +47,13 @@ Aqui estão algumas imagens do projeto:
 
 1. Clone este repositório
 
-```
+```bash
 git clone https://github.com/DalioSY/link-tree.git
 ```
 
 2. Acesse a pasta do projeto
 
-```
+```bash
 cd link-tree
 ```
 
@@ -66,4 +66,4 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encon
 - **Dalio Shindi Yamada**
 - [GitHub](https://github.com/DalioSY)
 - [LinkedIn](https://www.linkedin.com/in/dalio-s-yamada)
-- [Portfólio](https://daliosy.github.io/my-PORTFOLIO)
+- [Portfólio](https://portfolio-dalio.vercel.app/)
